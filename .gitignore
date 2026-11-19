@@ -1,0 +1,16 @@
+# Data and model files (from licensed MLS data, shared separately)
+*.csv
+*.parquet
+*.joblib
+*.pkl
+data/
+
+# Python / environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Jupyter / macOS
+.ipynb_checkpoints/
+.DS_Store
